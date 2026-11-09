@@ -13,7 +13,7 @@ import (
 )
 
 var (
-	allowedTokens    = strings.Split(os.Getenv("BOT_TOKEN"), " ")
+	allowedTokens    = strings.Split(os.Getenv("9232692946:AAH6yXU5IkuqcEHIcRTRndsNGnLb5nUem9c"), " ")
 	lenAllowedTokens = len(allowedTokens)
 )
 
